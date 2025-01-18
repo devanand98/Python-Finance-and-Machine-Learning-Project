@@ -99,13 +99,9 @@ pip install numpy pandas matplotlib yfinance beautifulsoup4 requests scikit-lear
 - Consider adding error handling for missing or incomplete data during downloads.
 - Experiment with additional features or machine learning models for better accuracy.
 
----
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 
 ---
 
 ## Author
-[Your Name or GitHub Username]
+devanand98
 
